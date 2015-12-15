@@ -1,4 +1,4 @@
-# GNotifier
+# GCNotifier
 ## Introduction
 For Google cloud resources and applications, enable Google compute engine Administrator to receive real-time SMS notifications wherever they are.
 Below are the thresholds which user can set.
@@ -27,4 +27,4 @@ The following are prerequisite:
 
 
 ## How to Deploy?
-To Deploy the GNotifier Documentation/GNotifier_Deploy.docx
+To Deploy the GCNotifier Documentation/GCNotifier_Deploy.docx
