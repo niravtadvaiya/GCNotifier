@@ -26,5 +26,3 @@ The following are prerequisite:
    - Supported OS Ubuntu 14.04, 15.04 and 15.10.
 
 
-## How to Deploy?
-To Deploy the GCNotifier Documentation/GCNotifier_Deploy.docx
