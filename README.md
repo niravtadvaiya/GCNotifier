@@ -24,6 +24,3 @@ The following are prerequisite:
    - Real time notification NO WAIT TIME on receive message.
    - It can be use with any Google Monitoring  service.
    - Supported OS Ubuntu 14.04, 15.04 and 15.10.
-
-
-  
